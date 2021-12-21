@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Unkov</Authors>
+    <Company>Unkov</Company>
+    <OutputType>Library</OutputType>
+    <Copyright>Unkov 2021</Copyright>
+    <Description>C#(may be VB) lib for work with .ini files</Description>
+    <RepositoryUrl>https://github.com/kolya112/INIManagerLib</RepositoryUrl>
+    <AssemblyName>INIManager</AssemblyName>
+    <RootNamespace>INIManager</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
